@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome! 👋
+Hey, welcome to my profile! Here's a list of some noteworthy repositories from me:
+- [Restaurant Frontend App - React Native](https://github.com/bingjetli/restaurant-reservation-frontend)
+- [Restaurant Backend - Node/Express/MongoDB](https://github.com/bingjetli/restaurant-reservation-backend)
+- [COMP3100 Final Project: Human Height Visualizer - Node/Express/JQuery](https://github.com/bingjetli/comp3100_final_project)
+- [COMP4302 Final Project: 3D WebGL Flappy Bird Clone - OpenGLES2/Javascript](https://github.com/bingjetli/comp4302_final_project)
+- [MSEdge Chromium Addon: Modal Reader - Javascript/Html/Css](https://microsoftedge.microsoft.com/addons/detail/modal-reader/lfioklkdhefhfamdjemmbihpceknbkop)
 
 <!--
 **bingjetli/bingjetli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
