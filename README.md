@@ -7,7 +7,7 @@ Hey, I'm Bailey, welcome to my profile! I make programming projects in my free t
 - [MSEdge Chromium Addon: Modal Reader - Javascript/Html/Css](https://microsoftedge.microsoft.com/addons/detail/modal-reader/lfioklkdhefhfamdjemmbihpceknbkop)
 
 ## Contacts
-LinkedIn : [bliang1997](https://www.linkedin.com/in/bliang1997)
+LinkedIn : [bliang1997](https://www.linkedin.com/in/bliang1997)  
 Email : baileyliang1997@gmail.com
 
 <!--
