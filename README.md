@@ -1,10 +1,14 @@
 # Welcome! 👋
-Hey, welcome to my profile! Here's a list of some noteworthy repositories from me:
+Hey, I'm Bailey, welcome to my profile! I make programming projects in my free time. Here's a list of some noteworthy repositories from me:
 - [Restaurant Frontend App - React Native](https://github.com/bingjetli/restaurant-reservation-frontend)
 - [Restaurant Backend - Node/Express/MongoDB](https://github.com/bingjetli/restaurant-reservation-backend)
 - [COMP3100 Final Project: Human Height Visualizer - Node/Express/JQuery](https://github.com/bingjetli/comp3100_final_project)
 - [COMP4302 Final Project: 3D WebGL Flappy Bird Clone - OpenGLES2/Javascript](https://github.com/bingjetli/comp4302_final_project)
 - [MSEdge Chromium Addon: Modal Reader - Javascript/Html/Css](https://microsoftedge.microsoft.com/addons/detail/modal-reader/lfioklkdhefhfamdjemmbihpceknbkop)
+
+## Contacts
+LinkedIn : [bliang1997](https://www.linkedin.com/in/bliang1997)
+Email : baileyliang1997@gmail.com
 
 <!--
 **bingjetli/bingjetli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
