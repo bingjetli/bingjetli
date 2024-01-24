@@ -1,5 +1,7 @@
 # Welcome! 👋
 Hey, I'm Bailey, welcome to my profile! I make programming projects in my free time. Here's a list of some noteworthy repositories from me:
+- [Scale-Invariant Feature Detector (SIFT) in pure JS](https://github.com/bingjetli/sift-scale-space-extrema-detection/)
+- [Fruit Ninja Clone using CSS Animations](https://github.com/bingjetli/fruit-ninja-clone-js)
 - [Restaurant Frontend App - React Native](https://github.com/bingjetli/restaurant-reservation-frontend)
 - [Restaurant Backend - Node/Express/MongoDB](https://github.com/bingjetli/restaurant-reservation-backend)
 - [COMP3100 Final Project: Human Height Visualizer - Node/Express/JQuery](https://github.com/bingjetli/comp3100_final_project)
