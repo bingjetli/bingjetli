@@ -1,5 +1,6 @@
 # Welcome! 👋
 Hey, I'm Bailey, welcome to my profile! I make programming projects in my free time. Here's a list of some noteworthy repositories from me:
+- [BrickBLE: LEGO EV3 to LEGO SPIKE Bluetooth Low Energy (BLE) Communication](https://github.com/bingjetli/bricknet)
 - [Scale-Invariant Feature Detector (SIFT) in pure JS](https://github.com/bingjetli/sift-scale-space-extrema-detection/)
 - [Fruit Ninja Clone using CSS Animations](https://github.com/bingjetli/fruit-ninja-clone-js)
 - [Restaurant Frontend App - React Native](https://github.com/bingjetli/restaurant-reservation-frontend)
